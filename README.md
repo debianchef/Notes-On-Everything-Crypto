@@ -1,7 +1,7 @@
 
-1. [Uncle Debian's note on Basic Solidity Programming](https://github.com/debianchef/uncle-debian-notes/blob/trunk/uncle_debian_notes_on_basic_solidity.md)
-2. [Uncle Debian's note on Foundry for Building , Testing and Deploying Smart Contracts ](https://github.com/debianchef/uncle-debian-notes/blob/trunk/uncle_debian_notes_on_foundry.md)
-3. [Uncle Debian's note on Smart Contract Security](https://github.com/debianchef/uncle-debian-notes/blob/trunk/uncle_debians_notes_on_smart_contract_security.md)
+1. [ Basic Solidity 101](https://github.com/debianchef/uncle-debian-notes/blob/trunk/uncle_debian_notes_on_basic_solidity.md)
+2. [Foundry for Building , Testing and Deploying Smart Contracts  101 ](https://github.com/debianchef/uncle-debian-notes/blob/trunk/uncle_debian_notes_on_foundry.md)
+3. [ Smart Contract Security 101 ](https://github.com/debianchef/uncle-debian-notes/blob/trunk/uncle_debians_notes_on_smart_contract_security.md)
 
 
  
